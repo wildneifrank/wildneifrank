@@ -1,6 +1,6 @@
 - Desenvolvedor Fullstack
-- NextJS | NodeJs | TailwindCSS | ReactJs | MySQL
-- Engenheiro de Computação (6º Semestre)
+- C++ | NextJS | NodeJs | TailwindCSS | ReactJs | MySQL
+- Engenheiro de Computação (7º Semestre)
  
 
 
